@@ -54,6 +54,6 @@ There will be a Deloitte Info Session at 2:30. Attend if you would like further 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg)
 ![](http://static-assets.generalassemb.ly/logos/generalassembly-open-graph.png)
-![](.img/represently-wordmark-v2.png)
+![](./img/represently-wordmark-v2.png)
 
 
