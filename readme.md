@@ -63,8 +63,8 @@ Every team will present a 6 minute pitch (you will be cut off!) on their finding
 
 Presentations must include:
 
-- A proven data analysis of contextualizing current study abroad figures. Given this context, provide recommendations for how the Embassy can increase their reach to encourage additional students
-- Recommendations for improving French Embassy resources, particularly well-researched proposals surrounding a better user experience on frenchculture.org
+- A proven data analysis of contextualizing your data, visualizations, and actionable next steps
+- Recommendations for what you believe would help solve an identified problem and be a reasonable next step in your analysis.
 
 ## Teams
 Teams are three to four people. Given the data analysis, user experience, and (potentially live) deployment component of your task, including a diversity of skillsets should be a priority. A team that has fully deployed interactive data visualization components may provide impressive analysis, but will lack recommendations for improving the experience to end users seeking additional study abroad information. Likewise, well-researched and prototyped solutions that lack data-inforced findings (particularly of the provided visa dataset) will lack quantitative validity.
