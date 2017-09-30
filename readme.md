@@ -15,7 +15,7 @@ There are multiple projects you can work on to prove your data skill and make an
 > This dataset provides health insurance coverage data for each state and the nation as a whole, including variables such as the uninsured rates before and after Obamacare, estimates of individuals covered by employer and marketplace healthcare plans, and enrollment in Medicare and Medicaid programs.
 > How has the Affordable Care Act changed the rate of citizens with health insurance coverage? Which states observed the greatest decline in their uninsured rate? Did those states expand Medicaid program coverage and/or implement a health insurance marketplace? What do you predict will happen to the nationwide uninsured rate in the next five years?
 
-Data source [here](https://www.kaggle.com/hhs/health-insurance). (Note: this dataset is quite large: justifying a 10% sample is acceptable.)
+Data source [here](https://www.kaggle.com/hhs/health-insurance) and [here](https://www.kaggle.com/hhs/health-insurance-marketplace). (Note: this dataset is quite large: justifying a 10% sample is acceptable.)
 
 ### Campaign Spending Data
 
@@ -69,15 +69,12 @@ Presentations must include:
 ## Teams
 Teams are three to four people. Given the data analysis, user experience, and (potentially live) deployment component of your task, including a diversity of skillsets should be a priority. A team that has fully deployed interactive data visualization components may provide impressive analysis, but will lack recommendations for improving the experience to end users seeking additional study abroad information. Likewise, well-researched and prototyped solutions that lack data-inforced findings (particularly of the provided visa dataset) will lack quantitative validity.
 
-## Resources
-
-
 ## Submissions
 Submissions must be submitted via pull request to the submissions folder by 5:30 PM.
 
 To submit, create a folder within the submission folder with your team name. In that folder, place your submission materials. All submissions must include the presentation materials your group is leveraging, whether this ranges from a PDF of a PPT to links (in a mardown file) to working prototypes and deployed visualization tools. (Bear in mind you cannot add files in excess of 100MB to your Github: you should save your presentation as a PDF)
 
-If you need help with pull requests, find Joseph in advance of the 7:00 PM deadline. Please also view this [resource](https://yangsu.github.io/pull-request-tutorial/)
+If you need help with pull requests, find Joseph in advance of the 5:30 PM deadline. Please also view this [resource](https://yangsu.github.io/pull-request-tutorial/)
 
 ## Judging Criteria
   
@@ -91,7 +88,7 @@ Did the team create a workable dashboard, actionable visualizations, or clear va
 Could the given proposed demo solution be scaled out to a broader use case?
  
  
-Visualization / UX
+### Visualization / UX
 Are findings presented in a visually appealing manner? Are the data visualizations clean and approachable? Is the prototype easy to use and friendly to the end user?
  
 1                              	2                              	3                              	4                              	5
