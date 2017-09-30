@@ -67,7 +67,7 @@ Presentations must include:
 - Recommendations for what you believe would help solve an identified problem and be a reasonable next step in your analysis.
 
 ## Teams
-Teams are three to four people. Given the data analysis, user experience, and (potentially live) deployment component of your task, including a diversity of skillsets should be a priority. A team that has fully deployed interactive data visualization components may provide impressive analysis, but will lack recommendations for improving the experience to end users seeking additional study abroad information. Likewise, well-researched and prototyped solutions that lack data-inforced findings (particularly of the provided visa dataset) will lack quantitative validity.
+Teams are two to three people. Given the data analysis, user experience, and (potentially live) deployment component of your task, including a diversity of skillsets should be a priority. A team that has fully deployed interactive data visualization components may provide impressive analysis, but will lack recommendations for improving the experience to end users seeking additional study abroad information. Likewise, well-researched and prototyped solutions that lack data-inforced findings (particularly of the provided visa dataset) will lack quantitative validity.
 
 ## Submissions
 Submissions must be submitted via pull request to the submissions folder by 5:30 PM.
@@ -94,8 +94,6 @@ Are findings presented in a visually appealing manner? Are the data visualizatio
 1                              	2                              	3                              	4                              	5
  
 Comments:
- 
-
 
 
 The criteria is available [here](judging.md).
